@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aprenda Inglês</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Bichos">Hello blank fragment</string>
+    <string name="Números">Hello blank fragment</string>
+    <string name="Vogais">Hello blank fragment</string>
+</resources>
